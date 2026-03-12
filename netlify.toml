@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "https://github.com/Akku-Craft"
+  status = 302
