@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://akku-craft.usbverkehrtherum.de/sitemap.xml
