@@ -1,9 +1,4 @@
 [[redirects]]
-  from = "/"
-  to = "https://github.com/Akku-Craft"
-  status = 302
-
-[[redirects]]
   from = "/wiki"
   to = "https://github.com/Akku-Craft/wiki/wiki"
   status = 302
